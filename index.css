@@ -27,7 +27,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #5BBE42;
+    border: 5px solid purple;
 }
 
 .center {
@@ -35,7 +35,7 @@ header img {
 }
 
 h1 {
-    COLOR: #5BBE42;
+    COLOR: purple;
     text-align: center;
 }
 
@@ -64,12 +64,12 @@ footer a {
 }
 
 nav a:hover {
-    color: #5BBE42;
+    color: purple;
 } 
 
 .button {
     border-radius: 4px;
-    background-color: #5BBE42;
+    background-color: rgb(61, 0, 61);
     color: white;
     font-size: 16px;
     line-height: 20px;
