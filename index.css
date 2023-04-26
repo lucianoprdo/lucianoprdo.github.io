@@ -6,6 +6,10 @@ body {
     margin: 50px 250px;
 }
 
+main {
+    display: inline-block;
+}
+
 ul {
     display: flex;
     justify-content: space-between;
@@ -34,6 +38,10 @@ h1 {
     COLOR: #5BBE42;
 }
 
+section {
+    display: flex;
+}
+
 footer img {
     width: 50px;
     height: 50px;
@@ -53,3 +61,16 @@ footer a {
 nav a:hover {
     color: #5BBE42;
 } 
+
+.button {
+    border-radius: 4px;
+    background-color: #5BBE42;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: auto;
+    margin-bottom: 5px;
+}
