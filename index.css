@@ -36,6 +36,11 @@ header img {
 
 h1 {
     COLOR: #5BBE42;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
 
 section {
