@@ -53,16 +53,11 @@ footer img {
     height: 50px;
 }
 
-footer a {
+footer {
     display: flex;
     justify-content: center;
     margin: 20px;
-    text-align: center;
-}
-
-.conteiner {
-    padding: 0 px 50px;
-}
+    }
 
 nav a:hover {
     color: purple;
@@ -80,3 +75,18 @@ nav a:hover {
     margin: auto;
     margin-bottom: 5px;
 }
+
+.img-1 {
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 2.1%;
+    align-self: center;
+    padding: 5px;
+}
+
+/* footer a {
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+} */
