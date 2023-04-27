@@ -58,15 +58,11 @@ footer img {
     height: 50px;
 }
 
-footer a {
+footer {
     display: flex;
     justify-content: center;
     margin: 20px;
     text-align: center;
-}
-
-.conteiner {
-    padding: 0 px 50px;
 }
 
 nav a:hover {
@@ -86,6 +82,6 @@ nav a:hover {
     margin-bottom: 5px;
 }
 
-#habilidades {
-    font-size: 17px;
+.links {
+    
 }
