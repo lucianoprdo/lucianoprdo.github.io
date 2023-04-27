@@ -85,9 +85,13 @@ nav a:hover {
     text-align: center;
     display: inline-block;
     vertical-align: middle;
-    margin-top: 2.1%;
+    margin-top: 1.8%%;
     align-self: center;
-    padding: 5px;
+    padding: 6px;
+}
+#tamanho-img {
+    width: 60px;
+    height: 60px;
 }
 
 /* footer a {
